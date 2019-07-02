@@ -1,0 +1,19 @@
+{
+  "name": "mern-passportjs-example",
+  "version": "1.0.0",
+  "description": "basic mern passportjs example",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjeetendra/MERN-Passportjs-Example.git"
+  },
+  "author": "Jeetendra Kashyap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjeetendra/MERN-Passportjs-Example/issues"
+  },
+  "homepage": "https://github.com/kjeetendra/MERN-Passportjs-Example#readme"
+}
